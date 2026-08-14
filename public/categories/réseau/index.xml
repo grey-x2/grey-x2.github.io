@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Réseau on GREY-X</title>
+    <link>http://localhost:1313/categories/r%C3%A9seau/</link>
+    <description>Recent content in Réseau on GREY-X</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>© 2026 Marcel BATELA</copyright>
+    <lastBuildDate>Fri, 14 Aug 2026 12:12:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/categories/r%C3%A9seau/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>netsh interface portproxy en hacking : faire du port forwarding sous Windows</title>
+      <link>http://localhost:1313/posts/hacking/port_proxy/</link>
+      <pubDate>Fri, 14 Aug 2026 12:12:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/hacking/port_proxy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Commandes IP Linux : 80 % de pratique</title>
+      <link>http://localhost:1313/posts/les-commandes-ip-sous-linux/</link>
+      <pubDate>Fri, 14 Aug 2026 11:52:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/les-commandes-ip-sous-linux/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Créer un réseau Wi-Fi avec hostapd, dnsmasq et iptables</title>
+      <link>http://localhost:1313/posts/hacking/creer-reseau-wifi-hostapd-dnsmasq-iptables/</link>
+      <pubDate>Fri, 14 Aug 2026 11:32:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/hacking/creer-reseau-wifi-hostapd-dnsmasq-iptables/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>DHCP avec dnsmasq : comprendre et analyser les mécanismes d’attribution réseau</title>
+      <link>http://localhost:1313/posts/dhcp-dnsmasq/</link>
+      <pubDate>Fri, 14 Aug 2026 11:09:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/dhcp-dnsmasq/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

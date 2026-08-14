@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cybersécurité on GREY-X</title>
+    <link>http://localhost:1313/categories/cybers%C3%A9curit%C3%A9/</link>
+    <description>Recent content in Cybersécurité on GREY-X</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>© 2026 Marcel BATELA</copyright>
+    <lastBuildDate>Fri, 14 Aug 2026 10:57:57 +0200</lastBuildDate><atom:link href="http://localhost:1313/categories/cybers%C3%A9curit%C3%A9/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Introduction au pentesting : comprendre avant d’exploiter</title>
+      <link>http://localhost:1313/posts/introduction-pentesting/</link>
+      <pubDate>Fri, 14 Aug 2026 10:57:57 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/introduction-pentesting/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

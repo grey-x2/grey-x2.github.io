@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blue Team on GREY-X</title>
+    <link>http://localhost:1313/tags/blue-team/</link>
+    <description>Recent content in Blue Team on GREY-X</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>© 2026 Marcel BATELA</copyright>
+    <lastBuildDate>Fri, 14 Aug 2026 12:12:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/blue-team/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>netsh interface portproxy en hacking : faire du port forwarding sous Windows</title>
+      <link>http://localhost:1313/posts/hacking/port_proxy/</link>
+      <pubDate>Fri, 14 Aug 2026 12:12:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/hacking/port_proxy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>netsh en hacking : configurer et analyser un proxy WinHTTP sous Windows</title>
+      <link>http://localhost:1313/posts/hacking/winhttp/</link>
+      <pubDate>Fri, 14 Aug 2026 12:11:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/hacking/winhttp/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>icacls en hacking : analyser les permissions NTFS sous Windows</title>
+      <link>http://localhost:1313/posts/hacking/icacls/</link>
+      <pubDate>Fri, 14 Aug 2026 12:08:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/hacking/icacls/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>net use en hacking : comprendre les connexions SMB sous Windows</title>
+      <link>http://localhost:1313/posts/hacking/net-use/</link>
+      <pubDate>Fri, 14 Aug 2026 12:07:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/hacking/net-use/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>net share en hacking : énumérer les partages réseau Windows</title>
+      <link>http://localhost:1313/posts/hacking/net-share/</link>
+      <pubDate>Fri, 14 Aug 2026 12:05:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/hacking/net-share/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>net user en hacking Windows</title>
+      <link>http://localhost:1313/posts/hacking/net-user/</link>
+      <pubDate>Fri, 14 Aug 2026 12:01:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/hacking/net-user/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>wevtutil en hacking : travailler avec les logs Windows</title>
+      <link>http://localhost:1313/posts/hacking/wevtutil/</link>
+      <pubDate>Fri, 14 Aug 2026 11:57:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/hacking/wevtutil/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

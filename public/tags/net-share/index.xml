@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Net Share on GREY-X</title>
+    <link>http://localhost:1313/tags/net-share/</link>
+    <description>Recent content in Net Share on GREY-X</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>© 2026 Marcel BATELA</copyright>
+    <lastBuildDate>Fri, 14 Aug 2026 12:05:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/net-share/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>net share en hacking : énumérer les partages réseau Windows</title>
+      <link>http://localhost:1313/posts/hacking/net-share/</link>
+      <pubDate>Fri, 14 Aug 2026 12:05:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/hacking/net-share/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Logs on GREY-X</title>
+    <link>http://localhost:1313/tags/logs/</link>
+    <description>Recent content in Logs on GREY-X</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>© 2026 Marcel BATELA</copyright>
+    <lastBuildDate>Fri, 14 Aug 2026 11:57:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/logs/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>wevtutil en hacking : travailler avec les logs Windows</title>
+      <link>http://localhost:1313/posts/hacking/wevtutil/</link>
+      <pubDate>Fri, 14 Aug 2026 11:57:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/hacking/wevtutil/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

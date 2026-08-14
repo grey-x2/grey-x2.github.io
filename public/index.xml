@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GREY-X</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on GREY-X</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>© 2026 Marcel BATELA</copyright>
+    <lastBuildDate>Fri, 14 Aug 2026 12:12:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>netsh interface portproxy en hacking : faire du port forwarding sous Windows</title>
+      <link>http://localhost:1313/posts/hacking/port_proxy/</link>
+      <pubDate>Fri, 14 Aug 2026 12:12:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/hacking/port_proxy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>netsh en hacking : configurer et analyser un proxy WinHTTP sous Windows</title>
+      <link>http://localhost:1313/posts/hacking/winhttp/</link>
+      <pubDate>Fri, 14 Aug 2026 12:11:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/hacking/winhttp/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>icacls en hacking : analyser les permissions NTFS sous Windows</title>
+      <link>http://localhost:1313/posts/hacking/icacls/</link>
+      <pubDate>Fri, 14 Aug 2026 12:08:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/hacking/icacls/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>net use en hacking : comprendre les connexions SMB sous Windows</title>
+      <link>http://localhost:1313/posts/hacking/net-use/</link>
+      <pubDate>Fri, 14 Aug 2026 12:07:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/hacking/net-use/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>net share en hacking : énumérer les partages réseau Windows</title>
+      <link>http://localhost:1313/posts/hacking/net-share/</link>
+      <pubDate>Fri, 14 Aug 2026 12:05:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/hacking/net-share/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>net user en hacking Windows</title>
+      <link>http://localhost:1313/posts/hacking/net-user/</link>
+      <pubDate>Fri, 14 Aug 2026 12:01:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/hacking/net-user/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>wevtutil en hacking : travailler avec les logs Windows</title>
+      <link>http://localhost:1313/posts/hacking/wevtutil/</link>
+      <pubDate>Fri, 14 Aug 2026 11:57:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/hacking/wevtutil/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Commandes IP Linux : 80 % de pratique</title>
+      <link>http://localhost:1313/posts/les-commandes-ip-sous-linux/</link>
+      <pubDate>Fri, 14 Aug 2026 11:52:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/les-commandes-ip-sous-linux/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>CSA Attack Wi-Fi : comprendre l’attaque</title>
+      <link>http://localhost:1313/posts/hacking/csa-attaque/</link>
+      <pubDate>Fri, 14 Aug 2026 11:49:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/hacking/csa-attaque/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Créer un réseau Wi-Fi avec hostapd, dnsmasq et iptables</title>
+      <link>http://localhost:1313/posts/hacking/creer-reseau-wifi-hostapd-dnsmasq-iptables/</link>
+      <pubDate>Fri, 14 Aug 2026 11:32:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/hacking/creer-reseau-wifi-hostapd-dnsmasq-iptables/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Les gestionnaires de paquets Linux : différences, avantages et philosophies</title>
+      <link>http://localhost:1313/posts/packeges-linux/</link>
+      <pubDate>Fri, 14 Aug 2026 11:28:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/packeges-linux/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Prise en main d’Arch Linux : les bases à connaître</title>
+      <link>http://localhost:1313/posts/arch-bases/</link>
+      <pubDate>Fri, 14 Aug 2026 11:24:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/arch-bases/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Prise en main d’openSUSE : les bases à connaître</title>
+      <link>http://localhost:1313/posts/suse-bases/</link>
+      <pubDate>Fri, 14 Aug 2026 11:23:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/suse-bases/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Les commandes macOS essentielles : maîtriser le terminal</title>
+      <link>http://localhost:1313/posts/mac-os-bases/</link>
+      <pubDate>Fri, 14 Aug 2026 11:22:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/mac-os-bases/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Les commandes CMD Windows essentielles : les bases du terminal</title>
+      <link>http://localhost:1313/posts/cmd-base/</link>
+      <pubDate>Fri, 14 Aug 2026 11:18:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/cmd-base/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Les commandes CMD Windows essentielles : les bases du terminal</title>
+      <link>http://localhost:1313/posts/powershell-base/</link>
+      <pubDate>Fri, 14 Aug 2026 11:18:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/powershell-base/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Les commandes Linux essentielles : les bases à maîtriser</title>
+      <link>http://localhost:1313/posts/commandes-de-base-linux/</link>
+      <pubDate>Fri, 14 Aug 2026 11:16:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/commandes-de-base-linux/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Construire un routeur NAT Linux avec DHCP, iptables et deux interfaces réseau</title>
+      <link>http://localhost:1313/posts/net-dhcp/</link>
+      <pubDate>Fri, 14 Aug 2026 11:12:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/net-dhcp/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>DHCP avec dnsmasq : comprendre et analyser les mécanismes d’attribution réseau</title>
+      <link>http://localhost:1313/posts/dhcp-dnsmasq/</link>
+      <pubDate>Fri, 14 Aug 2026 11:09:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/dhcp-dnsmasq/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Introduction au pentesting : comprendre avant d’exploiter</title>
+      <link>http://localhost:1313/posts/introduction-pentesting/</link>
+      <pubDate>Fri, 14 Aug 2026 10:57:57 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/introduction-pentesting/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>À propos</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Fri, 14 Aug 2026 10:03:05 +0200</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
